@@ -1,2 +1,3 @@
-# Polynomial-subtraction
-Algorithm in C to subtract two polynomials
+# Projects
+I am a computer science student
+I will mainly be posting standalone projects that interest me
